@@ -1,5 +1,8 @@
 # Learning-and-Intelligent-Systems
 
+--It occurs that you can see only one page of the 2-page pdf file. For complete view, download the pdf file and open it--
+
+
 This repository is used to share my exam cheatsheet for the Learning and Intelligent Systems course at ETH Zurich in 2017.
 Achieved grade: 6, which is the maximum possible grade.
 
